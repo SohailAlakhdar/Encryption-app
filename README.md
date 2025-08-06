@@ -121,11 +121,3 @@ You can register manually through the `/auth` route.
 ## 📃 License
 
 MIT License
-
----
-
-## 👨‍💻 Author
-
-**Sohail Alakhdar**  
-Contact: [your-email@example.com]  
-LinkedIn / GitHub / Portfolio (add your links here)
